@@ -1,0 +1,13 @@
+{
+  "snapshot_time_beijing": "2026-10-21T00:49:37+08:00",
+  "listing_rows": 30,
+  "included_products": 28,
+  "excluded_products": 1,
+  "needs_review_products": 1,
+  "priced_included_products": 28,
+  "min_usd": 4.48,
+  "median_usd": 12.99,
+  "mean_usd": 11.94,
+  "max_usd": 17.99,
+  "scope_note": "One dated ranking snapshot; not the entire market or transaction prices."
+}

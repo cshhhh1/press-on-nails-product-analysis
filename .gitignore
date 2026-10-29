@@ -1,0 +1,23 @@
+# Downloaded public source data and row-level intermediate data
+data/raw/
+data/processed/
+data/private/
+data/interim/
+
+# Python tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local application files and secrets
+.env
+.env.*
+!.env.example
+*.part
+*.log
+*.pbix
+*.bak
+assets/*_rebuilt.png
+Thumbs.db
+desktop.ini
